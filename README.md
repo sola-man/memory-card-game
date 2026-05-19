@@ -2,11 +2,9 @@
 
 A classic memory matching game built with HTML, CSS, and JavaScript. Test your memory skills by matching pairs of cards in the fewest moves possible!
 
-![Memory Game Demo](https://via.placeholder.com/800x400?text=Memory+Card+Game+Screenshot)
-
 ## ✨ Live Demo
 
-[Play the Memory Game](https://sola-man.github.io/memory-card-game/)
+[Play the Memory Game](https://sola-man.github.io/memory-card-game)
 
 ## 🎮 How to Play
 
