@@ -31,4 +31,3 @@ A classic memory matching game built with HTML, CSS, and JavaScript. Test your m
 - **CSS3** - Styling, grid layout, animations, responsive design
 - **JavaScript (ES6+)** - Game logic, event handling, DOM manipulation
 
-## 📁 Project Structure
