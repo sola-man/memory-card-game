@@ -4,7 +4,7 @@ A classic memory matching game built with HTML, CSS, and JavaScript. Test your m
 
 ## ✨ Live Demo
 
-[Play the Memory Game](https://sola-man.github.io/memory-card-game)
+[Play the Memory Game](https://sola-man.github.io/memory-card-game/)
 
 ## 🎮 How to Play
 
